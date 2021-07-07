@@ -1,11 +1,9 @@
 # made by weirdboi12408
 
-import pyautogui
 import time
 import timeit
 import keyboard
 import random
-pyautogui.FAILSAFE = True
 
 #data
 
